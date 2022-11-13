@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "goaltube-7b585",
+  "private_key_id": "6b4b8c7b6ed131ac6acf60e6035ac63c08c13ba8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsCis/CZ6GyxR8\najQiUvXGhrGGWG4Ap6qPpyTS+0fkrLx9EpjrHw0Zd3gU3Y2roq23QCJkQWr27GEB\ngqc7Dg3g968nYIQt6E45QyTYMz4cop4ncMQWXgT6Qxc+aUV3R3UQJPZRL3Y9hYE3\nE+iq6NB30bW04sCx6JNQygkdf+W3bNjcDeUeezfy9u6ZUS3U4D1kF3P76s8wOEBB\nTIzY8b7cCH+ST8eEaJhnbOCNWPqiLabw45qh79KODDiRwxMr8NLlpOw+2LHVTOJh\nwjnMDn9iZFEHEgqvFec9oICsKqVNaKSMMLdlBc7yN+j9nMQF8e0q4FTub7OeUSDh\nlCBCxH8ZAgMBAAECggEAARDzu/7HxDxtopMX7UndVb8k9NkHHtWV2YZm1IXpJ/zS\nvZBdcUDugwS6B6Bojd1CvVrWO7p/ZWCz/d8868FGYGljOle/SfeMGzppd+DiwX5X\n2OplKgxSyehGNG/7lbspebxOPdTmTd2jc4oZ4Yvy1XiaazC9PVJcg14qg0vKdSy4\nFgPgnJnarJzQs+tV8gES7R+aNf08fxxFCoDTvFYM3hH4IMeI0bwKvTt/p7kbcG+r\nbtsRun4hf0ZZAGzABapww9o8EiyPyLPHVCc3yMrNa1AR7hvMnSxhnckckD088+gU\nWrkDMCDP2yN+heJlx9Qoa3xRNMNMtYr4X7K2ecmTQQKBgQDU6SRZ4SOItfKW1cDt\n8zBX29bbWLBx2fjuongWC1j73uI4H0M8Jgu/+VtaKB5+XOI2X8erFZAhvfYuZ4gV\nQYapkNtVgqufBln6LEhldCY3Kgf3j7OH2xjAg02Nqx5eNvI821fPRZUh/6/qWvSo\nItS0d2vfAW9o/zoDlAWAIu/UqQKBgQDO24KEh7zGyjT9shnyWkTluRTKejAUNzIX\nrCYlLwFditsmhJgx6LE3AnSM36c2SCraOnGZ5VUWWQ91JDBqYJ3IgM1rMrDUPngx\nQnjsZJA5cOIGyV8bKeuiydUXwnW6p01gkTT7/j7Jwu8neF9q2FVD2cC1iK1tR/+I\nB6VqjNZs8QKBgBX5ahMMtYoqnTsMHLlyXA71VZuV78AQayzV/+bmjOyR+G8qatoO\nYzARIGiRs3P/SimqgQUbWKDi5kGr1dO7y5Y8qSaOMgBbu3WilGZEMp2G7QOUBUeE\nSW21H4/7lUrMCPxW9x0hZV748MMTWCTyU1m86Zk+oK0JiodMA7VR5cbhAoGAPkpd\nsDkLwLTtZiP2qkNCkga82wgWaFACtpwxVGsmNxv0SFIPXqAalV0Y6b8DpFXxCYwl\n31ju2W7yN60xIyd6/ADFWu2F0DQLj5Hbxhu2ToXOmoqTKCPkgD3U/HWjbBSrOVQg\np211TN51k+YsnYkNjAQLgt7okormyPi8eCx2+ZECgYEAq4N+1A8vqrQRRk4yqe6v\n8N5hbisDbnNn43d4yt6ONAHwDY6fUyNOCnKdFrULV6ek2P19KrddC+FXrj4oPzKx\nUOF5CBTbIHil+11L4TMlwl9NMvmSuxywRgVC4Bj3+Rm4IAZuVHQdPUlFMlUpYhpP\nutglSsS8quxJoQwmzT38bII=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6e2vu@goaltube-7b585.iam.gserviceaccount.com",
+  "client_id": "105835220977543080337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6e2vu%40goaltube-7b585.iam.gserviceaccount.com"
+}

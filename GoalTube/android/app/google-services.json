@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750017632492",
+    "project_id": "goaltube-7b585",
+    "storage_bucket": "goaltube-7b585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750017632492:android:3b889a1ce8d91e94e42dc9",
+        "android_client_info": {
+          "package_name": "com.codingabby.goaltube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750017632492-pta9fm78k4l13f1govnc1m7j6q10ld69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingabby.goaltube",
+            "certificate_hash": "2b5533ca5d4c21e7970318b4707c215e7bb98cff"
+          }
+        },
+        {
+          "client_id": "750017632492-alamekbvg451klfifsnuq84g5aslbh5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrx6IYv1zyAlutupEV7gwjlXXhYaGwPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750017632492-alamekbvg451klfifsnuq84g5aslbh5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
